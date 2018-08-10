@@ -114,35 +114,37 @@
                     margin: auto;
 
                 }
-                img{
                 
-                    width: 300px;
-                    height: auto;
-
-
-                }
 
                 
     
                 .mecatronica, .js, .ia, .deep, .machine, .IOT,  .rm, .blockchain, .CyberSeguridad, .redNeuronal{
-                    max-width: 80%;
 
+                    max-width: 70%;
                     border-radius:50%;
-                    box-shadow: 0px 0px 5px 5px;
-                    
     
     
                 }
     
                 .gs, .ra, .realidadvirtual, .printing, .criptomonedas, .html5, .pwa, .css3{
-                    max-width: 80%;
-                    
-                    border-radius: 25px;
-                    box-shadow: 0px 0px 5px 5px;
-    
+
+
+                    max-width: 70%; 
+                    border-radius: 25px;               
     
                 }
-                
+
+                .pwa,.criptomonedas,.printing,.IOT,.rm,.machine,ia,.js{
+
+
+                    border-style: hidden;
+
+
+                }
+                .html5,.rm,.gs,.css3,.deep,.ia,.redNeuronal{
+
+                    box-shadow: 3px 0px 3px 1px rgb(81, 238, 217);;
+                }
 
     
                 footer{
