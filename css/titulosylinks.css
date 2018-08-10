@@ -1,11 +1,15 @@
 .orange{
 
 background: rgb(214, 84, 24);
+color:white;
 
 }
+
+
 .blue{
 
 background: rgb(0, 102, 255);
+color: white;
 
 }
 
@@ -30,7 +34,7 @@ background: rgb(154, 220, 241);
 }
 .lightgreen{
 
-background: grey;
+background: rgb(43, 43, 219);
 
 }
 
@@ -111,6 +115,14 @@ background:rgb(38, 87, 38);
 .cincog{
 
 background: rgb(127, 192, 245)
+
+}
+
+.tresd{
+
+background: rgb(29, 28, 28);
+color:white;
+
 
 }
 

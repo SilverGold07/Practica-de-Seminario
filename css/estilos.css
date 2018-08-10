@@ -19,12 +19,12 @@
         width: 70%;
         max-width:1000px ;
         margin:20px auto;
-        font-family: Arial, Helvetica, sans-serif;
-      
-        
-       
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        position: relative;
     }
-           
+
+
+        
             
             
             header h1{
@@ -72,6 +72,16 @@
                     font-weight: bold;
 
                 }
+
+
+                p{
+
+                    
+                    padding: 2%;
+                    
+
+
+                }
         
     
         .main .articles{
@@ -81,7 +91,7 @@
             border-style: ridge;
             background: white;
             border-color: rgb(81, 238, 217);
-            
+        
             
             }
             .main .articles article{
@@ -104,12 +114,19 @@
                     margin: auto;
 
                 }
+                img{
+                
+                    width: 300px;
+                    height: auto;
+
+
+                }
 
                 
     
                 .mecatronica, .js, .ia, .deep, .machine, .IOT,  .rm, .blockchain, .CyberSeguridad, .redNeuronal{
                     max-width: 80%;
-                    height: auto;
+
                     border-radius:50%;
                     box-shadow: 0px 0px 5px 5px;
                     
@@ -119,7 +136,7 @@
     
                 .gs, .ra, .realidadvirtual, .printing, .criptomonedas, .html5, .pwa, .css3{
                     max-width: 80%;
-                    height: auto;
+                    
                     border-radius: 25px;
                     box-shadow: 0px 0px 5px 5px;
     
@@ -151,8 +168,6 @@
                     width: 110px;
                     border-radius: 50%;
                     border-style: outset;
-                    
-
                 }
                 
                 @media  screen and (min-width: 768px) {
@@ -163,10 +178,6 @@
                         padding-right: 0;
                         padding-left: 0;
                       }
-
-
-
-
                 }
 
                @media only screen and (max-width: 720px) 
