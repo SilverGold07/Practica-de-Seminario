@@ -141,8 +141,9 @@
 
 
                 }
-                .html5,.rm,.gs,.css3,.deep,.ia,.redNeuronal{
+                .html5,.rm,.gs,.css3,.deep,.ia,.redNeuronal,.res{
 
+                    padding: 10px;
                     box-shadow: 3px 0px 3px 1px rgb(204, 214, 213);
                 }
 
