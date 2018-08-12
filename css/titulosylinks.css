@@ -155,9 +155,10 @@ border-style: outset;
 border-color: rgb(81, 238, 217);
 display: block;
 
+
 }
 nav ul li a:hover{
-
+transition:3s;
 border-style: inset;
 color:rgb(81, 238, 217);
 
